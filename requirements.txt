@@ -1,4 +1,2 @@
-altair
-pandas
 streamlit
-hugchat
+hugchat==0.0.8
